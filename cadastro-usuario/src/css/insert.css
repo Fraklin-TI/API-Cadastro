@@ -1,0 +1,51 @@
+body
+{
+    background-image: url('../images/deadpool.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 40px;
+}
+.ok
+{
+    background-color: #920910;
+    margin: 20px 0px 0px 20px; 
+    border-radius: 12px;
+    border: 2px solid #380202;
+    top: 3px;
+    padding: 10px 10px;
+    outline: none;
+    cursor: pointer;
+    transition: 0.25px;
+}
+
+.ok:hover
+{
+ 
+    background-color: rgb(87, 2, 2);
+
+}
+
+
+.btn_voltar, .btn_voltar:visited {
+    background-color: #920910;
+    margin: 20px 0px 0px 20px; 
+    border-radius: 12px;
+    border: 2px solid #380202;
+    top: 3px;
+    padding: 10px 10px;
+    outline: none;
+    cursor: pointer;
+    transition: 0.25px;
+    text-decoration:none;
+    color: black;
+}
+
+.btn_voltar:hover {
+    background-color: rgb(87, 2, 2);
+    text-decoration:none;
+}
+
+.mensagem{
+    color: white;
+}

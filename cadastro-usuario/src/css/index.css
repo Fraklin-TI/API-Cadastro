@@ -1,0 +1,272 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-image: url('../images/949998.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+}
+
+h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(219, 215, 215);
+}
+
+.registroformulário
+{
+    width: 100%;
+    margin: auto;
+    left: -20px;
+    top: -80px;
+    color: #8888885d;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+    box-shadow: inset 0 0 1em rgb(3, 134, 151), 0 0 1em rgb(3, 130, 214);
+}
+
+.conteudo
+{
+    background-color: rgba(146, 144, 144, 0.103);
+    width: 100%;
+    margin: auto;
+}
+
+form
+{
+    padding: 40px;
+}
+
+.tb
+{
+    color: rgb(241, 233, 233);
+}
+
+.idd
+{
+    position: relative;
+    left: -20px;
+    top: -5px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+}
+
+.nomee
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+}
+
+
+.sobrenomee
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+}
+
+.cepp
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    width: 120px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+}
+
+.cidadee
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    width: 200px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+}
+
+.estadoo
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    width: 100px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+}
+
+.logra
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    width: 200px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+}
+
+.numeroo
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    width: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+}
+
+.bairroo
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    width: 100px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+}
+
+.comp
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    width: 50px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+}
+
+.sexo
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    width: 415px;
+    height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+    outline: none;
+    overflow: hidden;
+}
+
+.edit
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    width: 50px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b; 
+}
+.option
+{
+    position: relative;
+    left: -24px;
+    top: -5px;
+    line-height: 30px;
+    width: 50px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+    color: #aa030b;
+}
+
+.ok
+{
+    background-color: #920910;
+    margin: 20px 0px 0px 20px; 
+    border-radius: 12px;
+    border: 2px solid #380202;
+    top: 3px;
+    padding: 10px 10px;
+    outline: none;
+    cursor: pointer;
+    transition: 0.25px;
+}
+
+.ok:hover
+{
+    background-color: rgb(87, 2, 2);
+}
+
+.icones
+{
+    background-color: #920910;
+    margin: 5px 0px 0px 5px; 
+    border-radius: 12px;
+    border: 2px solid #380202;
+    top: 3px;
+    padding: 5px 5px;
+    outline: none;
+    cursor: pointer;
+    transition: 0.25px;
+}
+
+.icones:hover
+{
+    background-color: rgb(87, 2, 2);
+}
+
+.cor{
+    color: rgb(255, 255, 255);
+}
+
+table{
+    border: 2px solid rgba(119, 118, 118, 0.568);
+    width: 200px;
+}
+
+table tr:hover {
+    background: #3b3b3b75;
+}
+
+table tr:nth-child(even){
+    background: #29292979;
+}
